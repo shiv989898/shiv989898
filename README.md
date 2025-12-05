@@ -10,9 +10,9 @@
   <img src="./assets/banner.gif" alt="Shiv Banner" width="100%" style="max-width:1000px; border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6)" />
 </p>
 
-<p align="center">
+<p align="center"> 
   <!-- Typing animation (SVG) - small animated header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&duration=2500&pause=800&color=9ad3bc&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Shiv.;Building+mobile+apps,+web+tools+%26+AI+automation.;I+love+clean+code+%26+systems+that+ship+themselves." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&duration=2500&pause=800&color=9ad3bc&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Shiv.; Building+mobile+apps,+web+tools+%26+AI+automation.;I+love+clean+code+%26+systems+that+ship+themselves." alt="typing" />
 </p>
 
 ---
