@@ -12,7 +12,7 @@
 
 <p align="center"> 
   <!-- Typing animation (SVG) - small animated header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&duration=2500&pause=800&color=9ad3bc&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Shiv.; Building+mobile+apps,+web+tools+%26+AI+automation.;I+love+clean+code+%26+systems+that+ship+themselves." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&duration=2500&pause=800&color=9ad3bc&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Shiv.;+Building+mobile+apps,+web+tools+%26+AI+automation.;I+love+clean+code+%26+systems+that+ship+themselves." alt="typing" />
 </p>
 
 ---
