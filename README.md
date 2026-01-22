@@ -208,7 +208,7 @@ hobbies:
 
   <!-- GitHub Stats Cards -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shiv989898&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=shiv989898&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=A855F7&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiv989898&theme=tokyonight" alt="Stats Summary" />
 
   <br /><br />
 
@@ -224,9 +224,9 @@ hobbies:
 
 <br />
 
-<!-- GitHub Trophies -->
+<!-- GitHub Summary Card -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shiv989898&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=-C,-B" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiv989898&theme=tokyonight" width="95%" alt="GitHub Profile Summary" />
 </div>
 
 <!-- Divider -->
@@ -423,19 +423,17 @@ CSS          1 hr 8 mins     █░░░░░░░░░░░░░░░░
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🐍 **Contribution Graph**
+## 📊 **Contribution Insights**
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shiv989898/shiv989898/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/shiv989898/shiv989898/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/shiv989898/shiv989898/blob/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-  
-  <br /><br />
-  
-  <!-- Alternative: 3D Contribution Calendar -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiv989898&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=A855F7&point=FFFFFF" width="95%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shiv989898&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=shiv989898&theme=tokyonight" width="49%" alt="Commits" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00D9FF/shiv989898" alt="GitHub Contribution Chart" width="90%" />
 </div>
 
 <!-- Divider -->
